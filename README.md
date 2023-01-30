@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>
 👨‍💻: Обо мне :
 <p>
-- Скоро добавлю информацию)
+
 <p>
 :hammer_and_wrench: Языки и навыки :
 <div> 
