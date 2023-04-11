@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 <div align="right">
   <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif" width="450" height="300"/>
 </div>
-👨‍💻: Обо мне :
-<p>
 
-<p>
 :hammer_and_wrench: Языки и навыки :
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
