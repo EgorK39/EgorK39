@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </h1>
 </div>
 <div align="right">
-  <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif" width="450" height="300"/>
+  <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif" width="200" height="150"/>
 </div>
 
 :hammer_and_wrench: Языки и навыки :
