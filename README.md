@@ -36,11 +36,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif" width="450" height="300"/>
 </div>
 
-:hammer_and_wrench: Языки и навыки :
-<div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" title="Pycharm" alt="Pycharm" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+#:hammer_and_wrench: Языки и навыки :
+#<div> 
+#  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+#  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" title="Pycharm" alt="Pycharm" width="60" height="60"/>&nbsp;
+#  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+ # <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   
-</div>
+#</div>
